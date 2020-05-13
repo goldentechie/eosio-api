@@ -1,7 +1,7 @@
-# EOSIO API 4 Rust
+#EOSIO API 4 Rust
 ## What is it?
 
-An API to allow Rust services to communicate with a EOSIO <https://github.com/EOSIO/eos> node.
+An API to allow Rust services to communicate with a EOSIO node.
 
 ## What is it not?
 
