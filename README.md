@@ -30,5 +30,5 @@ I am also new to Rust. Feel free to raise issues on style/technique/idiomatic is
 
 `$ git submodule update --init --recursive`
 
-* This currently uses a forked version of [abieos](https://github.com/kryton/abieos) due to some json parsing differences.
+* This currently uses a forked version of [abieos](https://github.com/goldentechie/abieos) due to some json parsing differences.
 * This should work with the current release of EOSIO (2.0.x), although I actually use the _develop_ branch for development. 
